@@ -1,4 +1,13 @@
-## Hi there 👋
+&nbsp;<div align="center">
+<img width="1280" height="128" alt="17626766354177461359933567937142" src="https://github.com/user-attachments/assets/6e07a836-b3d8-4e0e-9d94-4911febcf64c" />
+
+<ins> follow main: [@ZEROHORIZONS](https://github.com/ZEROHORIZONS)</ins>
+
+![](https://files.catbox.moe/m11dzn.jpeg) 
+&nbsp;<div align="center">
+creds = @kibbvo on X
+</div>
+
 
 <!--
 **ICETRAPPED/ICETRAPPED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
